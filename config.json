@@ -1,0 +1,6 @@
+{
+    "passlist_path": "~/passlist.txt",
+    "interface": "wlan0",
+    "timeout": 50,
+    "scan_method": "auto"
+}

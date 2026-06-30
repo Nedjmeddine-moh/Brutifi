@@ -1,4 +1,4 @@
-# Brutifi - WiFi Brute Force
+# Brutifi - Unified Security Testing Framework
 # Author: Nedjmeddine
 
 CXX = g++
